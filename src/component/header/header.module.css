@@ -1,0 +1,53 @@
+
+.container{
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.header{
+  padding-top: 20px;
+}
+
+.header_content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo{
+  font-weight: 600;
+  font-size: 24px;
+  color: #000;
+}
+
+.header_nav{
+  display: flex;
+  gap: 40px;
+}
+
+.nav_item{
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  color: #00000091;
+  transition: 0.5s;
+}
+
+.nav_item:hover{
+  color: #000;
+  text-decoration: underline;
+  transition: 0.5s;
+}
+
+.btn{
+  background-color: #D4612F;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+
+

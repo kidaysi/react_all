@@ -1,0 +1,12 @@
+.slider{
+    margin: 100px;
+}
+
+.slide{
+    width: 100px;
+}
+
+.img{
+    width: 100%;
+    background-size: cover;
+}
